@@ -15,7 +15,8 @@ Learn the basics of git workflow, including adding new files.
    Files](file:///home/otoomet/tyyq/teaching/info201/book/localbook/build/git-basics.html#adding-files). 
 
 5. Add the image to this file using markdown syntax.
-   
+   This is my favorite picture of a ***cute puppy***!
+   ![A cute puppy](OIP.jpg)
 5. Write a paragraph of text where you explaine what the picture is
    about.  Feel free to add more.
 
