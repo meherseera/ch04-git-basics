@@ -24,6 +24,9 @@ many good editors for markdown.
 
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
+1. Cereal
+2. Banana
+3. Milk
 
 6. Using your terminal, add and commit the changes you've made to your
    repository.  See [Making
